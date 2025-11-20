@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <widget>
-<ver>2.3</ver>
-<size>1090989</size>
-<widgetname>Player</widgetname>
-</widget> 
+<ver>1</ver>
+<size>9999999</size>
+<widgetname>tizen</widgetname>
+<webtype>tizen</webtype>
+</widget>
